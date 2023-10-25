@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cheng57
 - 👀 I’m interested in Running/Hiking/Climbing/Yoga
-- 🌱 I’m currently learning .NET Framework/C#/Visual Studio
+- 🌱 I’m currently learning Java/C#/JavaScript
 - 💞️ I’m looking to collaborate on Web/Mobile applications
 - 📫 How to reach me cwu57cn@gmail.com
 
