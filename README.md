@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Cheng57
-- 👀 I’m interested in Calithenics/Running/Hiking/Climbing/Yoga
-- 🌱 I’m currently learning Java/C#/JavaScript
-- 💞️ I’m looking to collaborate on Web/Mobile applications
+- 👋 Hi, I’m Cheng Wu
+- 🧑‍💻 I’m a Software Developer
+- 🌱 I’m looking to collaborate on software applications
 - 📫 How to reach me cwu57cn@gmail.com
 
 <!---
